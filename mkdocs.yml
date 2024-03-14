@@ -1,0 +1,41 @@
+site_name:  iStudio
+repo_url: https://github.com/yohman/istudio
+theme:
+  name: material
+  logo: images/logo.jpg
+  use_directory_urls: true
+  scheme: slate
+  palette:
+    primary: "white"
+    accent: "rgb(222,43,23)"
+
+  font:
+    text: "Roboto"
+    code: "Roboto Mono"
+  language: "en"
+  features:
+    - navigation.footer
+    - navigation.tabs
+    - navigation.indexes
+extra:
+  generator: false
+
+extra_css:
+  - css/style.css
+
+# Extensions
+markdown_extensions:
+  - markdown.extensions.codehilite
+  - tables
+  - attr_list
+  - md_in_html
+  # Python Markdown
+  - toc:
+      permalink: true
+
+  # Python Markdown Extensions
+  - pymdownx.highlight
+  - pymdownx.superfences
+
+plugins:
+  - search
