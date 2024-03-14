@@ -4,7 +4,7 @@ title: Challenge 01→
 
 # Challenge 01<br>2024 International Humanitarian mapathon
 
-## Day 1: Wednesday April 17 3pm
+## Day 1: Wednesday April 24 3pm
 
 <img src="../images/pizza.jpg" class="no-shadow">
 
@@ -75,7 +75,7 @@ Links:
 	<!-- <p class="i">After this, you can go back to step 7 and select a new task for mapping. Thank you for your contribution to OpenStreetMap!</p></div></div></div> -->
 	<p class="i">これで、ステップ 7 に戻ってマッピングの新しいタスクを選択できます。OpenStreetMap への貢献ありがとうございます！</p></div></div></div>
 
-## Day 2: Thursday April 18 3pm
+## Day 2: Thursday April 25 3pm
 
 <img src="../images/un.jpg" class="no-shadow">
 
@@ -115,7 +115,7 @@ UN チームはハッカソンのためのデータパッケージを提供し�
 
 期限：地図の提出期限は 3 日目のセッションが始まる時点です。
 
-## Day 3: Friday April 19 <span style="color:red;">10am</span>
+## Day 3: Friday April 26 <span style="color:red;">10am</span>
 
 <img src="../images/meetup.jpg" class="no-shadow">
 
