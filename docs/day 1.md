@@ -7,6 +7,13 @@ hide:
 
 # Day 1: Wednesday April 24 3pm
 
+## まずは「Padlet」で自己紹介！
+
+![padlet](images/padlet.png)
+
+[Padlet](https://padlet.com/UCLA_Library/international-humanitarian-mapathon-2024-v9xzbflkecfhwugp)
+
+
 
 ## スタートはここから：
 
