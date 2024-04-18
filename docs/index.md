@@ -10,4 +10,6 @@ hide:
 
 <hr>
 
+![qr code](<images/mapathon qr.png>)
+
 <img src="images/japan-mapathon_flyers_v5.png" class="no-shadow" width="400">
