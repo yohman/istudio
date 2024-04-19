@@ -7,9 +7,12 @@ hide:
 
 # Day 1: Wednesday April 24 3pm
 
+[![alt text](images/hotosm.png)](https://tasks.hotosm.org/)
+
+
 ## まずは「Padlet」で自己紹介！
 
-![padlet](images/padlet.png)
+[![padlet](images/padlet.png)](https://padlet.com/UCLA_Library/international-humanitarian-mapathon-2024-v9xzbflkecfhwugp)
 
 [Padlet](https://padlet.com/UCLA_Library/international-humanitarian-mapathon-2024-v9xzbflkecfhwugp)
 
