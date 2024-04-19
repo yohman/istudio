@@ -5,7 +5,7 @@ hide:
     - toc
 ---
 
-# Day 1: Wednesday April 24 3pm
+# Day 1: Wednesday April 24 3pm 
 
 [![alt text](images/hotosm.png)](https://tasks.hotosm.org/)
 
